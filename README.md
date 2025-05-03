@@ -1,2 +1,2 @@
 # pingpong
-print('it don't work lol')
+it don't work lol
