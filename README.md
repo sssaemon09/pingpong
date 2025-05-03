@@ -1,2 +1,2 @@
 # pingpong
-it don't work lol
+it doesn't work lol
